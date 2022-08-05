@@ -5,7 +5,7 @@ public class Contato {
     private String email;
     private String telefone;
   
-    public Contato() {}
+    public Contato(){}
  
     public Contato(int codigo, String nome, String email, String telefone) {
         this.codigo = codigo;
